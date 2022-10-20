@@ -22,8 +22,8 @@ Run time will be $12.95h$, therefore, total Energy loss is:
 $$Eloss_{li-ion} = 12.95h * 0.075W = 0.975Wh$$
 $$Eloss_{li-po} = 12.95h * 0.003W = 0.004Wh$$
 
-This translates to a $7.5%$ loss for li-ion vs a $0.4%$ loss for lipo in total capacity.  Also, this doesn't account for increased resistance and lower efficiency due to heating. <br/>
-If we double the current to $2A$, the percentages get worse.  For Li-ion it becomes a $15%$ loss and $0.8%$ for li-po, approximately. 
+This translates to a $7.5\\%$ loss for li-ion vs a $0.4\\%$ loss for lipo in total capacity.  Also, this doesn't account for increased resistance and lower efficiency due to heating. <br/>
+If we double the current to $2A$, the percentages get worse.  For Li-ion it becomes a $15\\%$ loss and $0.8\\%$ for li-po, approximately. 
 
 In the case of a 10A current pull on 40 (10S,4P) li-ion Cells, with 20Ah capacity, you'd be looking at 2h's of runtime, and those 10 cells in series have a total of 0.75Ohm resistance, but their individual current load is only 2.5A.  
 
